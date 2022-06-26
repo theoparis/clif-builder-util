@@ -1,0 +1,12 @@
+[package]
+name = "clif-builder-util"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.58"
+cranelift = "0.85.0"
+cranelift-module = "0.85.0"
