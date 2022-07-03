@@ -8,5 +8,5 @@ license = "MIT"
 
 [dependencies]
 anyhow = "1.0.58"
-cranelift = "0.85.0"
-cranelift-module = "0.85.0"
+cranelift = "0.85.1"
+cranelift-module = "0.85.1"
