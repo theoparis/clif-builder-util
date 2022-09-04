@@ -7,6 +7,6 @@ license = "MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-anyhow = "1.0.63"
-cranelift = "0.87.0"
-cranelift-module = "0.87.0"
+anyhow = "1.0.64"
+cranelift = "0.87.1"
+cranelift-module = "0.87.1"
